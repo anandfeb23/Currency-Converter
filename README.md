@@ -1,4 +1,4 @@
-# Currency Converter App
+# Currency Converter App [Live](https://currency-converter-byhimanshu.vercel.app/)
 
 This project is a Currency Converter application built using React and Vite. It allows users to convert an amount from one currency to another using real-time exchange rates fetched from a public API. This project was completed with guidance from Hitesh Choudhary's "Chai aur React" YouTube series, specifically the video titled "Custom hooks in react | currency Project".
 
